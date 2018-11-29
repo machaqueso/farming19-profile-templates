@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<inputBinding version="6" mouseSensitivityScaleX="1" mouseSensitivityScaleY="1">
+    <actionBinding action="JUMP">
+        <binding device="WHEEL_DEFAULT" input="BUTTON_2" />
+    </actionBinding>
+
+    <actionBinding action="ACTIVATE_HANDTOOL">
+        <binding device="WHEEL_DEFAULT" input="BUTTON_3" />
+    </actionBinding>
+
+    <actionBinding action="INTERACT">
+        <binding device="WHEEL_DEFAULT" input="BUTTON_3" />
+    </actionBinding>
+
+    <actionBinding action="THROW_OBJECT">
+        <binding device="WHEEL_DEFAULT" input="BUTTON_1" />
+    </actionBinding>
+
+    <actionBinding action="ENTER">
+        <binding device="WHEEL_DEFAULT" input="BUTTON_1" />
+    </actionBinding>
+
+    <actionBinding action="CROUCH">
+        <binding device="WHEEL_DEFAULT" input="BUTTON_4" />
+    </actionBinding>
+
+    <actionBinding action="TOGGLE_LIGHTS_FPS">
+        <binding device="WHEEL_DEFAULT" input="BUTTON_7 BUTTON_3" />
+    </actionBinding>
+
+    <actionBinding action="CAMERA_SWITCH">
+        <binding device="WHEEL_DEFAULT" input="BUTTON_31" />
+    </actionBinding>
+
+    <actionBinding action="ACTIVATE_OBJECT">
+        <binding device="WHEEL_DEFAULT" input="BUTTON_30" />
+    </actionBinding>
+
+
+    <actionBinding action="SKIP_MESSAGE_BOX">
+        <binding device="WHEEL_DEFAULT" input="BUTTON_2" />
+    </actionBinding>
+
+    <actionBinding action="CAMERA_ZOOM_IN">
+        <binding device="WHEEL_DEFAULT" input="BUTTON_17" />
+    </actionBinding>
+
+    <actionBinding action="CAMERA_ZOOM_OUT">
+        <binding device="WHEEL_DEFAULT" input="BUTTON_19" />
+    </actionBinding>
+
+    <actionBinding action="SWITCH_VEHICLE">
+        <binding device="WHEEL_DEFAULT" input="BUTTON_18" />
+    </actionBinding>
+
+    <actionBinding action="SWITCH_VEHICLE_BACK">
+        <binding device="WHEEL_DEFAULT" input="BUTTON_20" />
+    </actionBinding>
+
+
+    <actionBinding action="MENU">
+        <binding device="WHEEL_DEFAULT" input="BUTTON_10" />
+    </actionBinding>
+
+    <actionBinding action="TOGGLE_STORE">
+        <binding device="WHEEL_DEFAULT" input="BUTTON_9" />
+    </actionBinding>
+
+
+    <actionBinding action="ATTACH">
+        <binding device="WHEEL_DEFAULT" input="BUTTON_2" />
+    </actionBinding>
+
+    <actionBinding action="SWITCH_IMPLEMENT">
+        <binding device="WHEEL_DEFAULT" input="BUTTON_4" />
+    </actionBinding>
+
+    <actionBinding action="TOGGLE_AI">
+        <binding device="WHEEL_DEFAULT" input="BUTTON_3" />
+    </actionBinding>
+
+    <actionBinding action="HONK">
+        <binding device="WHEEL_DEFAULT" input="BUTTON_7 BUTTON_2" />
+    </actionBinding>
+
+    <actionBinding action="TOGGLE_MOTOR_STATE">
+        <binding device="WHEEL_DEFAULT" input="BUTTON_7 BUTTON_1" />
+    </actionBinding>
+
+    <actionBinding action="TOGGLE_TIPSTATE">
+        <binding device="WHEEL_DEFAULT" input="BUTTON_7 BUTTON_4" />
+    </actionBinding>
+
+    <actionBinding action="TOGGLE_LIGHTS">
+        <binding device="WHEEL_DEFAULT" input="BUTTON_7 BUTTON_3" />
+    </actionBinding>
+
+    <actionBinding action="TOGGLE_BEACON_LIGHTS">
+        <binding device="WHEEL_DEFAULT" input="BUTTON_7 BUTTON_17" />
+    </actionBinding>
+
+    <actionBinding action="TOGGLE_TIPSIDE">
+        <binding device="WHEEL_DEFAULT" input="BUTTON_7 BUTTON_19" />
+    </actionBinding>
+
+    <actionBinding action="TOGGLE_TURNLIGHT_LEFT">
+        <binding device="WHEEL_DEFAULT" input="BUTTON_7 BUTTON_20" />
+    </actionBinding>
+
+    <actionBinding action="TOGGLE_TURNLIGHT_RIGHT">
+        <binding device="WHEEL_DEFAULT" input="BUTTON_7 BUTTON_18" />
+    </actionBinding>
+
+    <actionBinding action="TOGGLE_CRABSTEERING">
+        <binding device="WHEEL_DEFAULT" input="BUTTON_7 BUTTON_30" />
+    </actionBinding>
+
+    <actionBinding action="TOGGLE_WORKMODE">
+        <binding device="WHEEL_DEFAULT" input="BUTTON_7 BUTTON_30" />
+    </actionBinding>
+
+    <actionBinding action="TOGGLE_TENSION_BELTS">
+        <binding device="WHEEL_DEFAULT" input="BUTTON_7 BUTTON_31" />
+    </actionBinding>
+
+
+    <actionBinding action="LOWER_IMPLEMENT">
+        <binding device="WHEEL_DEFAULT" input="BUTTON_6 BUTTON_29" />
+    </actionBinding>
+
+    <actionBinding action="IMPLEMENT_EXTRA">
+        <binding device="WHEEL_DEFAULT" input="BUTTON_5 BUTTON_28" />
+    </actionBinding>
+
+    <actionBinding action="IMPLEMENT_EXTRA2">
+        <binding device="WHEEL_DEFAULT" input="BUTTON_6 BUTTON_31" />
+    </actionBinding>
+
+    <actionBinding action="IMPLEMENT_EXTRA3">
+        <binding device="WHEEL_DEFAULT" input="BUTTON_5 BUTTON_30" />
+    </actionBinding>
+
+    <actionBinding action="IMPLEMENT_EXTRA4">
+        <binding device="WHEEL_DEFAULT" input="BUTTON_7 BUTTON_29" />
+    </actionBinding>
+
+    <actionBinding action="TOGGLE_PIPE">
+        <binding device="WHEEL_DEFAULT" input="BUTTON_7 BUTTON_28" />
+    </actionBinding>
+
+    <actionBinding action="TOGGLE_COVER">
+        <binding device="WHEEL_DEFAULT" input="BUTTON_7 BUTTON_31" />
+    </actionBinding>
+
+    <actionBinding action="TOGGLE_CHOPPER">
+        <binding device="WHEEL_DEFAULT" input="BUTTON_5 BUTTON_18" />
+    </actionBinding>
+
+    <actionBinding action="TOGGLE_MAP_SIZE">
+        <binding device="WHEEL_DEFAULT" input="BUTTON_5 BUTTON_30" />
+    </actionBinding>
+
+    <actionBinding action="TOGGLE_CONTROLGROUP">
+        <binding device="WHEEL_DEFAULT" input="BUTTON_8 BUTTON_31" />
+    </actionBinding>
+
+
+    <actionBinding action="CHANGE_DRIVING_DIRECTION">
+        <binding device="WHEEL_DEFAULT" input="BUTTON_5 BUTTON_7 BUTTON_2" />
+    </actionBinding>
+
+    <actionBinding action="TOGGLE_TIPSTATE_GROUND">
+        <binding device="WHEEL_DEFAULT" input="BUTTON_5 BUTTON_7 BUTTON_4" />
+    </actionBinding>
+
+    <actionBinding action="TOGGLE_CRUISE_CONTROL">
+        <binding device="WHEEL_DEFAULT" input="BUTTON_8 BUTTON_30" />
+    </actionBinding>
+
+    <actionBinding action="RADIO_TOGGLE">
+        <binding device="WHEEL_DEFAULT" input="BUTTON_5 BUTTON_7 BUTTON_17" />
+    </actionBinding>
+
+    <actionBinding action="RADIO_NEXT_CHANNEL">
+        <binding device="WHEEL_DEFAULT" input="BUTTON_5 BUTTON_7 BUTTON_18" />
+    </actionBinding>
+
+    <actionBinding action="RADIO_PREVIOUS_CHANNEL">
+        <binding device="WHEEL_DEFAULT" input="BUTTON_5 BUTTON_7 BUTTON_20" />
+    </actionBinding>
+
+
+    <actionBinding action="INGAMEMAP_ACCEPT">
+        <binding device="WHEEL_DEFAULT" input="BUTTON_31" />
+    </actionBinding>
+
+    <actionBinding action="MENU_ACTIVATE">
+        <binding device="WHEEL_DEFAULT" input="BUTTON_1" />
+    </actionBinding>
+
+    <actionBinding action="MENU_ACCEPT">
+        <binding device="WHEEL_DEFAULT" input="BUTTON_2" />
+    </actionBinding>
+
+    <actionBinding action="MENU_BACK">
+        <binding device="WHEEL_DEFAULT" input="BUTTON_3" />
+    </actionBinding>
+
+    <actionBinding action="MENU_CANCEL">
+        <binding device="WHEEL_DEFAULT" input="BUTTON_4" />
+    </actionBinding>
+
+    <actionBinding action="MENU_PAGE_PREV">
+        <binding device="WHEEL_DEFAULT" input="BUTTON_5" />
+    </actionBinding>
+
+    <actionBinding action="MENU_PAGE_NEXT">
+        <binding device="WHEEL_DEFAULT" input="BUTTON_6" />
+    </actionBinding>
+
+    <actionBinding action="MENU_EXTRA_1">
+        <binding device="WHEEL_DEFAULT" input="BUTTON_30" />
+    </actionBinding>
+
+    <actionBinding action="MENU_EXTRA_2">
+        <binding device="WHEEL_DEFAULT" input="BUTTON_31" />
+    </actionBinding>
+
+    <actionBinding action="SNAP_PLACEABLE">
+        <binding device="WHEEL_DEFAULT" input="BUTTON_7" />
+    </actionBinding>
+
+    <actionBinding action="UNLOAD">
+        <binding device="WHEEL_DEFAULT" input="BUTTON_7 BUTTON_4" />
+    </actionBinding>
+
+    <!-- AXES  -->
+    <actionBinding action="MENU_AXIS_UP_DOWN">
+        <binding device="WHEEL_DEFAULT" input="BUTTON_17" axisComponent="+" />
+        <binding device="WHEEL_DEFAULT" input="BUTTON_19" axisComponent="-" />
+    </actionBinding>
+
+    <actionBinding action="MENU_AXIS_LEFT_RIGHT">
+        <binding device="WHEEL_DEFAULT" input="BUTTON_18" axisComponent="+" />
+        <binding device="WHEEL_DEFAULT" input="BUTTON_20" axisComponent="-" />
+    </actionBinding>
+
+
+    <actionBinding action="AXIS_RUN">
+        <binding device="WHEEL_DEFAULT" input="AXIS_11" inputComponent="+" axisComponent="+" />
+    </actionBinding>
+
+    <actionBinding action="AXIS_PLACEMENT_ROTATE_CAMERA">
+    </actionBinding>
+
+    <actionBinding action="AXIS_PLACEMENT_ROTATE_OBJECT">
+    </actionBinding>
+
+    <actionBinding action="AXIS_PLACEMENT_CHANGE_HEIGHT">
+    </actionBinding>
+
+    <actionBinding action="AXIS_MOVE_FORWARD_PLAYER">
+    </actionBinding>
+
+    <actionBinding action="AXIS_MOVE_SIDE_PLAYER">
+    </actionBinding>
+
+    <actionBinding action="AXIS_LOOK_UPDOWN_PLAYER">
+    </actionBinding>
+
+    <actionBinding action="AXIS_LOOK_LEFTRIGHT_PLAYER">
+    </actionBinding>
+
+    <actionBinding action="AXIS_ROTATE_HANDTOOL">
+    </actionBinding>
+
+
+    <actionBinding action="AXIS_BRAKE_VEHICLE">
+        <binding device="WHEEL_DEFAULT" input="AXIS_12" inputComponent="+" axisComponent="+" />
+    </actionBinding>
+
+    <actionBinding action="AXIS_ACCELERATE_VEHICLE">
+        <binding device="WHEEL_DEFAULT" input="AXIS_11" inputComponent="+" axisComponent="+" />
+    </actionBinding>
+
+    <actionBinding action="AXIS_MOVE_SIDE_VEHICLE">
+        <binding device="WHEEL_DEFAULT" input="AXIS_1" inputComponent="+" axisComponent="+" />
+        <binding device="WHEEL_DEFAULT" input="AXIS_1" inputComponent="-" axisComponent="-" />
+    </actionBinding>
+
+    <actionBinding action="AXIS_LOOK_UPDOWN_VEHICLE">
+    </actionBinding>
+
+    <actionBinding action="AXIS_LOOK_LEFTRIGHT_VEHICLE">
+    </actionBinding>
+
+
+    <actionBinding action="AXIS_HYDRAULICATTACHER1">
+    </actionBinding>
+
+    <actionBinding action="AXIS_HYDRAULICATTACHER2">
+    </actionBinding>
+
+    <actionBinding action="AXIS_FRONTLOADER_ARM">
+    </actionBinding>
+
+    <actionBinding action="AXIS_FRONTLOADER_ARM2">
+    </actionBinding>
+
+    <actionBinding action="AXIS_FRONTLOADER_TOOL">
+    </actionBinding>
+
+    <actionBinding action="AXIS_FRONTLOADER_TOOL2">
+    </actionBinding>
+
+    <actionBinding action="AXIS_FRONTLOADER_TOOL3">
+    </actionBinding>
+
+    <actionBinding action="AXIS_FRONTLOADER_TOOL4">
+    </actionBinding>
+
+    <actionBinding action="AXIS_FRONTLOADER_TOOL5">
+    </actionBinding>
+
+
+    <actionBinding action="AXIS_CRANE_ARM">
+    </actionBinding>
+
+    <actionBinding action="AXIS_CRANE_ARM2">
+    </actionBinding>
+
+    <actionBinding action="AXIS_CRANE_ARM3">
+    </actionBinding>
+
+    <actionBinding action="AXIS_CRANE_ARM4">
+    </actionBinding>
+
+    <actionBinding action="AXIS_CRANE_TOOL">
+    </actionBinding>
+
+    <actionBinding action="AXIS_CRANE_TOOL2">
+    </actionBinding>
+
+    <actionBinding action="AXIS_CRANE_TOOL3">
+    </actionBinding>
+
+    <actionBinding action="AXIS_CRANE_SUPPORT">
+    </actionBinding>
+
+
+    <actionBinding action="AXIS_CUTTER_REEL">
+    </actionBinding>
+
+    <actionBinding action="AXIS_CUTTER_REEL2">
+    </actionBinding>
+
+
+    <actionBinding action="AXIS_PIPE">
+    </actionBinding>
+
+    <actionBinding action="AXIS_PIPE2">
+    </actionBinding>
+
+
+    <actionBinding action="AXIS_DOOR">
+    </actionBinding>
+
+    <actionBinding action="AXIS_DOOR_2">
+    </actionBinding>
+
+    <actionBinding action="AXIS_DOOR_3">
+    </actionBinding>
+
+    <actionBinding action="AXIS_DRAWBAR">
+    </actionBinding>
+
+    <actionBinding action="AXIS_DRAWBAR2">
+    </actionBinding>
+
+    <actionBinding action="AXIS_SPRAYER_ARM">
+    </actionBinding>
+
+    <actionBinding action="AXIS_WHEEL_BASE">
+    </actionBinding>
+
+    <actionBinding action="AXIS_CRUISE_CONTROL">
+    </actionBinding>
+
+    <!-- LOCKED INPUTS -->
+
+    <actionBinding action="NEXT_HANDTOOL">
+        <binding device="WHEEL_DEFAULT" input="BUTTON_17" />
+    </actionBinding>
+
+    <actionBinding action="PREVIOUS_HANDTOOL">
+        <binding device="WHEEL_DEFAULT" input="BUTTON_19" />
+    </actionBinding>
+
+    <actionBinding action="DEBUG_PLAYER_UP_DOWN">
+        <binding device="WHEEL_DEFAULT" input="BUTTON_5" inputComponent="+" axisComponent="+" />
+        <binding device="WHEEL_DEFAULT" input="BUTTON_7" inputComponent="+" axisComponent="-" />
+    </actionBinding>
+
+    <actionBinding action="CONSOLE_ALT_COMMAND_BUTTON">
+        <binding device="WHEEL_DEFAULT" input="BUTTON_5" />
+    </actionBinding>
+
+    <actionBinding action="CONSOLE_ALT_COMMAND2_BUTTON">
+        <binding device="WHEEL_DEFAULT" input="BUTTON_7" />
+    </actionBinding>
+
+    <actionBinding action="CONSOLE_ALT_COMMAND3_BUTTON">
+        <binding device="WHEEL_DEFAULT" input="BUTTON_5 BUTTON_7" />
+    </actionBinding>
+
+    <!-- CONSOLE DEBUG COMMANDS -->
+    <actionBinding action="CONSOLE_DEBUG_TOGGLE_FPS">
+        <binding device="WHEEL_DEFAULT" input="BUTTON_17 BUTTON_5 BUTTON_7 BUTTON_2" />
+    </actionBinding>
+
+    <actionBinding action="CONSOLE_DEBUG_TOGGLE_STATS">
+        <binding device="WHEEL_DEFAULT" input="BUTTON_17 BUTTON_5 BUTTON_7 BUTTON_3" />
+    </actionBinding>
+
+    <actionBinding action="CONSOLE_DEBUG_FILLUNIT_NEXT">
+        <binding device="WHEEL_DEFAULT" input="BUTTON_18 BUTTON_5 BUTTON_7 BUTTON_4" />
+    </actionBinding>
+
+    <actionBinding action="CONSOLE_DEBUG_FILLUNIT_INC">
+        <binding device="WHEEL_DEFAULT" input="BUTTON_17 BUTTON_5 BUTTON_7 BUTTON_4" />
+    </actionBinding>
+
+    <actionBinding action="CONSOLE_DEBUG_FILLUNIT_DEC">
+        <binding device="WHEEL_DEFAULT" input="BUTTON_19 BUTTON_5 BUTTON_7 BUTTON_4" />
+    </actionBinding>
+</inputBinding>
